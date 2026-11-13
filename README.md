@@ -58,7 +58,7 @@ Suno 是直接生成一段音频。这个是**写谱子**：每一个音都是 A
 把这个仓库的链接发给你的 AI，让它安装。或者手动：
 
 ```bash
-git clone https://github.com/luolan0214/text-to-song-skill ~/.claude/skills/text-to-song
+git clone https://github.com/luolan0214/text-to-music-skill ~/.claude/skills/text-to-music
 ```
 
 然后直接说，比如：

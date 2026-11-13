@@ -1,5 +1,5 @@
 ---
-name: text-to-song
+name: text-to-music
 license: AGPL-3.0
 description: 把一段文字、一张图或一句说不清的心情，用代码编成一首 60–90 秒的纯音乐，并做成「一根线画到底 + 音符落到琴键上」的竖版音乐视频的完整流程和踩坑清单。只要用户想「编一首曲子」「给这段话配首歌」「把心情做成音乐」「用代码做音乐 / 做 city pop / lo-fi / 民谣」「做个音乐可视化视频发小红书」，或者提到「音符下落」「琴键」「线条跟着旋律走」，哪怕没说「用这个 skill」，都应该先读它再动手。不适用于需要真人演唱的歌、给现成视频配 BGM、语音旁白。Turn a piece of text or a mood into a short instrumental track written in code (Web Audio) with a hand-drawn line and falling-note keyboard visual, exported as a vertical mp4.
 ---
